@@ -10,5 +10,6 @@ hello I'm cris <img src ="https://media2.giphy.com/media/pbANa2F6HsMAU/giphy.gif
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=radical"/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismycris&layout=compact)
-
+	<br />
 ## <br />🙋‍♀️ connect with me
+-> Cristielythainara@gmail.com
