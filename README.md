@@ -4,4 +4,17 @@
 - 📫 How to reach me: 
 - ⚡ Estou cursando engenharia de software
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismycris&theme=reagir-escuro)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
