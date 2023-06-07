@@ -11,6 +11,7 @@ hello I'm cris <img src ="https://media2.giphy.com/media/pbANa2F6HsMAU/giphy.gif
 
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismycris&layout=compact)
-	<br />
+## <br />
+## <br />
 ## <br />🙋‍♀️ connect with me
 -> Cristielythainara@gmail.com
