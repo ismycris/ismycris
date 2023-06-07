@@ -5,7 +5,7 @@
 - ⚡ Estou cursando engenharia de software
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=radical)
 
 <picture>
 <source
