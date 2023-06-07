@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://giphy.com/stickers/minecraft-png-sheep-pbANa2F6HsMAU" width="28">
 
 - 📚 I’m currently learning C
 - 📫 How to reach me: 
