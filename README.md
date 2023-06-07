@@ -6,9 +6,10 @@ hello I'm cris <img src ="https://media2.giphy.com/media/pbANa2F6HsMAU/giphy.gif
 -📚 I’m currently learning C	
 	<br/>
 -⚡ I'm studying software engineering
+	
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=radical"  />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=radical"/>
-  
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismycris&layout=compact)
 	<br />
 ## <br />🙋‍♀️ connect with me
