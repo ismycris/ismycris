@@ -3,8 +3,7 @@
 hello I'm cris <img src ="https://media2.giphy.com/media/pbANa2F6HsMAU/giphy.gif?cid=ecf05e47zkk1wfqxas5xhe9a4pn5givwkt2b1jqf349hbmkj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 	
  ### <br />
--📚 I’m currently learning C	
-	<br/>
+
 -⚡ I'm studying software engineering
 	
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=radical"  />
