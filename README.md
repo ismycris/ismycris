@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media3.giphy.com/media/4HEHNoUfKQfGU/giphy.gif?cid=ecf05e47v4ffd419piwt611yzimrulvksbz85mlhb5vxt9jy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60">
-hello I'm cris <img src ="https://media2.giphy.com/media/pbANa2F6HsMAU/giphy.gif?cid=ecf05e47zkk1wfqxas5xhe9a4pn5givwkt2b1jqf349hbmkj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
+hello I'm cris 
 	
  ### <br />
 
