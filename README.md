@@ -50,10 +50,10 @@ Me interesso tanto por front quanto por back-end. Eu estudo e me atualizo na ár
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B0C5A4&text_color=FFF&border_radius=3&border_color=CDE8E5&icon_color=7AB2B2&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismycris&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B0C5A4&text_color=FFF&border_radius=3&border_color=CDE8E5&icon_color=7AB2B2&theme=jolly" alt="GitHub stats">
 
-   <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B0C5A4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=CDE8E5&count_private=true" alt="Most Used Languages">
+   <a href="https://github.com/ismycris/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ismycris&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B0C5A4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=CDE8E5&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
