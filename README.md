@@ -12,15 +12,14 @@
 Me interesso tanto por front quanto por back-end. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
-<img align="right" alt="" height="190px" src="![planta](https://github.com/ismycris/ismycris/assets/104570782/b705c3d3-79f0-4a72-b0dc-b97ee54b1264)">
-
+<img align="right" alt="" height="300px" src="https://github.com/ismycris/ismycris/assets/104570782/57f33178-c553-4437-a1e6-f06abf7a022f">
 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C0D1B8&color:FFF)](mailto:cristielythainara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C0D1B8&color:FFF)](https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C0D1B8&color:FFF)](https://www.instagram.com/0_0cris0_08/)
 
 
 <h3 align="left">My Stack ~</h3>
@@ -46,3 +45,22 @@ Me interesso tanto por front quanto por back-end. Eu estudo e me atualizo na ár
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
 </div>
+
+#
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=B0C5A4&text_color=FFF&border_radius=3&border_color=CDE8E5&icon_color=7AB2B2&theme=jolly" alt="GitHub stats">
+
+   <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=B0C5A4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=CDE8E5&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+#
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake.svg">
+</picture>
