@@ -12,7 +12,9 @@
 Me interesso tanto por front quanto por back-end. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 #
-<img align="right" alt="" height="300px" src="https://github.com/ismycris/ismycris/assets/104570782/57f33178-c553-4437-a1e6-f06abf7a022f">
+<img align="right" alt="" height="300px" src="https://github.com/ismycris/ismycris/assets/104570782/06b910bf-203d-43c0-af41-be57158727a8">
+
+
 
 
 <h3 align="left">Connect with me!</h3>
