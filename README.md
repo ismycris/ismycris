@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">I am currently a Software Engineering student at UniAmérica (Union of the Americas in Foz do Iguaçu). I am interested in both front and back-end development.
+<p align="center">I am currently a Software Engineering student at UniAmérica (União das Américas in Foz do Iguaçu). I am interested in both front and back-end development.
   I constantly study and update myself in the technology field because I love learning and using my knowledge to create innovative solutions!
 
 #
