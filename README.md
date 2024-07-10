@@ -9,7 +9,7 @@
 #
 
 <p align="center">I am currently a Software Engineering student at UniAmérica (União das Américas in Foz do Iguaçu). I am interested in both front and back-end development.
-  I constantly study and update myself in the technology field because I love learning and using my knowledge to create innovative solutions!
+
 
 #
 <img align="right" alt="" height="280px" src="https://github.com/ismycris/ismycris/assets/104570782/06b910bf-203d-43c0-af41-be57158727a8">
